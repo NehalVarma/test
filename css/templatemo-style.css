@@ -745,9 +745,9 @@ footer {
    Mobile Responsive         
 -----------------------------------------*/
 
-@media only screen and (max-width: 580px) {
+@media  screen and (max-width: 580px) {
   h1 {
-    font-size: 32px;
+    font-size: 33px;
   }
 
   h2 {
@@ -768,7 +768,7 @@ footer {
 
   #home .home-thumb {
     height: auto;
-    padding-top: 32px;
+    padding-top: 62px;
     padding-bottom: 2px; 
 
   }
@@ -793,7 +793,7 @@ footer {
 
   .background-image {
     position: relative;
-    min-height: 65vh;
+    min-height: 80vh;
   }
 }
 
